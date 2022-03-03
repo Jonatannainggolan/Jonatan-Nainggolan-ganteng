@@ -1092,7 +1092,7 @@ menu =
 ➪ *Permanen :* _15.000_
 
 ───────────────
-*_By DhaniGansOfficial_* :
+*_By Alwan Karsa XD* :
 ───────────────
 \`\`\`OPEN MURIDBOT :\`\`\`
 ➪ *Murid biasa :* _20.000_
