@@ -6,13 +6,13 @@ const rules = (prefix, botname) => {
 return `*_RULES BOT_*
 
 1. Jangan spam bot. 
-Sanksi: *WARN/SOFT BLOCK*
+Sanksi: *NGENTOD JANGAN SPAM NANTI GW BLOK*
 
 2. Jangan telepon bot.
-Sanksi: *SOFT BLOCK*
+Sanksi: *GW BLOK LU BABI*
 
 3. Jangan mengeksploitasi bot.
-Sanksi: *PERMANENT BLOCK*
+Sanksi: *GW BLOCK PERMANEN LU KONTOL*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}menu* untuk memulai!
 
